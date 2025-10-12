@@ -1,0 +1,33 @@
+<?php
+
+return [
+    'online_classes' => 'حصص اونلاين',
+    'add_new_class' => 'اضافة حصة جديدة',
+    'grade' => 'المرحلة',
+    'class' => 'الصف',
+    'section' => 'القسم',
+    'teacher' => 'المعلم',
+    'class_title' => 'عنوان الحصة',
+    'start_date' => 'تاريخ البداية',
+    'class_time' => 'وقت الحصة',
+    'meeting_link' => 'رابط الحصة',
+    'join_now' => 'انضم الان',
+    'actions' => 'العمليات',
+    'delete' => 'حذف',
+    'delete_confirmation' => 'هل انت متاكد مع عملية الحذف ؟',
+    'close' => 'اغلاق',
+    'submit' => 'تأكيد',
+    'add_indirect_class' => 'اضافة حصة غير مباشرة',
+    'classroom' => 'الفصل',
+    'section' => 'القسم',
+    'topic' => 'عنوان الحصة',
+    'start_time' => 'وقت البداية',
+    'duration' => 'المدة (بالدقائق)',
+    'meeting_id' => 'معرف الاجتماع',
+    'password' => 'كلمة المرور',
+    'start_url' => 'رابط البدء',
+    'join_url' => 'رابط الانضمام',
+    'save' => 'حفظ',
+    'add_online_class' => 'اضافة حصة اونلاين',
+    "Online_classes_with_Zoom"=>'حصص اونلاين مع زوم'
+];

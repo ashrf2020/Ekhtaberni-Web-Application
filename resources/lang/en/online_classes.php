@@ -1,0 +1,33 @@
+<?php
+
+return [
+    'online_classes' => 'Online Classes',
+    'add_new_class' => 'Add New Class',
+    'grade' => 'Grade',
+    'class' => 'Class',
+    'section' => 'Section',
+    'teacher' => 'Teacher',
+    'class_title' => 'Class Title',
+    'start_date' => 'Start Date',
+    'class_time' => 'Class Time',
+    'meeting_link' => 'Meeting Link',
+    'join_now' => 'Join Now',
+    'actions' => 'Actions',
+    'delete' => 'Delete',
+    'delete_confirmation' => 'Are you sure you want to delete this class?',
+    'close' => 'Close',
+    'submit' => 'Submit',
+    'add_indirect_class' => 'Add Indirect Meeting',
+    'classroom' => 'Classroom',
+    'section' => 'Section',
+    'topic' => 'Topic',
+    'start_time' => 'Start Time',
+    'duration' => 'Duration (minutes)',
+    'meeting_id' => 'Meeting ID',
+    'password' => 'Password',
+    'start_url' => 'Start URL',
+    'join_url' => 'Join URL',
+    'save' => 'Save',
+    'add_online_class' => 'Add Online Class',
+    "Online_classes_with_Zoom"=>"Online classes with Zoom"
+];

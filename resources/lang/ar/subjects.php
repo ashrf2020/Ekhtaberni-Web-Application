@@ -1,0 +1,26 @@
+<?php
+
+return [
+    'page_title' => 'المواد الدراسية',
+    'list_page_title' => 'قائمة المواد الدراسية',
+    'create_page_title' => 'إضافة مادة دراسية جديدة',
+    'edit_page_title' => 'تعديل مادة دراسية',
+    'subject_name_ar' => 'اسم المادة باللغة العربية',
+    'subject_name_en' => 'اسم المادة باللغة الإنجليزية',
+    'grade' => 'المرحلة الدراسية',
+    'classroom' => 'الصف الدراسي',
+    'teacher' => 'المعلم',
+    'actions' => 'العمليات',
+    'add_subject' => 'إضافة مادة جديدة',
+    'edit' => 'تعديل',
+    'delete' => 'حذف',
+    'close' => 'إغلاق',
+    'save' => 'حفظ',
+    'delete_confirm' => 'هل أنت متأكد من حذف هذه المادة؟',
+    'select_grade' => 'اختر المرحلة الدراسية',
+    'select_classroom' => 'اختر الصف الدراسي',
+    'select_teacher' => 'اختر المعلم',
+    'subject_created' => 'تم إضافة المادة بنجاح',
+    'subject_updated' => 'تم تحديث المادة بنجاح',
+    'subject_deleted' => 'تم حذف المادة بنجاح',
+];

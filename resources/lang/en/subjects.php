@@ -1,0 +1,26 @@
+<?php
+
+return [
+    'page_title' => 'Subjects',
+    'list_page_title' => 'Subjects List',
+    'create_page_title' => 'Add New Subject',
+    'edit_page_title' => 'Edit Subject',
+    'subject_name_ar' => 'Subject Name (Arabic)',
+    'subject_name_en' => 'Subject Name (English)',
+    'grade' => 'Grade',
+    'classroom' => 'Classroom',
+    'teacher' => 'Teacher',
+    'actions' => 'Actions',
+    'add_subject' => 'Add New Subject',
+    'edit' => 'Edit',
+    'delete' => 'Delete',
+    'close' => 'Close',
+    'save' => 'Save',
+    'delete_confirm' => 'Are you sure you want to delete this subject?',
+    'select_grade' => 'Select Grade',
+    'select_classroom' => 'Select Classroom',
+    'select_teacher' => 'Select Teacher',
+    'subject_created' => 'Subject has been created successfully',
+    'subject_updated' => 'Subject has been updated successfully',
+    'subject_deleted' => 'Subject has been deleted successfully',
+];

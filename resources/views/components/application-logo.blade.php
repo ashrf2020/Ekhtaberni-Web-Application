@@ -1,0 +1,1 @@
+<p>Welcome to the School Management System</p>
