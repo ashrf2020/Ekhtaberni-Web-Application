@@ -22,8 +22,8 @@
                             <div class="card-body">
                                 <div class="table-responsive">
                                     <table id="datatable" class="table  table-hover table-sm table-bordered p-0"
-                                           data-page-length="50"
-                                           style="text-align: center">
+                                            data-page-length="50"
+                                            style="text-align: center">
                                         <thead>
                                         <tr>
                                             <th>#</th>
@@ -46,8 +46,8 @@
                                                         {{ $studentDegree->score }}
                                                     @else
                                                         <a href="{{ route('student.exams.show', $quizze->id) }}" onclick="alertAbuse()"
-                                                           class="btn btn-outline-success btn-sm" role="button"
-                                                           aria-pressed="true">
+                                                            class="btn btn-outline-success btn-sm" role="button"
+                                                            aria-pressed="true">
                                                             <i class="fas fa-person-booth"></i></a>
                                                     @endif
                                                 </td>
